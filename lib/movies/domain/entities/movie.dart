@@ -33,11 +33,4 @@ class Movie extends Equatable {
       voteAverage,
     ];
   }
-    
-
-
-
-  
-
- 
 }
